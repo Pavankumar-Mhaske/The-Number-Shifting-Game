@@ -15,13 +15,13 @@
 ## Screenshots
 
 <p align="center">
-  <b>Report Page</b>
+  <b> 🌴🎄🌳🌲 ⭐💖 📄-📃 Report Page 📃-📄 💖⭐ 🌲🌳🎄🌴</b>
 </p>
 
 ![page1](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/d2324bef-067a-4157-bb8e-370bc96bbac3)
 
 <p align="center">
-  <b>Birds-view</b>
+  <b> 🌴🎄🌳🌲 ⭐💖 - 🐥Birds🐤 View 👀 - 💖⭐ 🌲🌳🎄🌴</b>
 </p>
 
 ![page28](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/ddb157f0-de19-4f25-af02-aaa0cd9f03a1)
