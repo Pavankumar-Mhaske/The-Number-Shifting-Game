@@ -20,19 +20,7 @@
 
 ![page1](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/d2324bef-067a-4157-bb8e-370bc96bbac3)
 
-![page2](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/c4e465d6-2910-476a-b6d1-8ff21ad44fab)
-
-![page3](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/104333fc-55fb-4f45-a052-5177d7914a27)
-
-![page4](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/eeb28f62-8cff-459d-b958-d992a472845b)
-
-![page5](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/69e3d719-f369-400d-bb01-a94421138ecd)
-
-![page6](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/fa147a95-70cb-4462-a7b7-38aae9d9bcfe)
-
-![page7](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/305caaf9-95c2-4b96-88c9-1bd27e19b7f1)
-
-![page8](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/5571e4db-d147-4909-a892-24b946e4392b)
+![page28](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/ddb157f0-de19-4f25-af02-aaa0cd9f03a1)
 
 ![page9](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/d78d974e-aacd-4181-8b0a-afa3d7dc8dc2)
 
@@ -69,7 +57,21 @@
 ![page25](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/86c03f74-833d-401f-995f-5142380256f7)
 
 ![page27](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/271fdaff-1b64-4970-a6bc-d03049e2e2d7)
-![page28](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/ddb157f0-de19-4f25-af02-aaa0cd9f03a1)
+
+## 📃 Project Report 📄
+![page2](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/c4e465d6-2910-476a-b6d1-8ff21ad44fab)
+
+![page3](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/104333fc-55fb-4f45-a052-5177d7914a27)
+
+![page4](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/eeb28f62-8cff-459d-b958-d992a472845b)
+
+![page5](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/69e3d719-f369-400d-bb01-a94421138ecd)
+
+![page6](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/fa147a95-70cb-4462-a7b7-38aae9d9bcfe)
+
+![page7](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/305caaf9-95c2-4b96-88c9-1bd27e19b7f1)
+
+![page8](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/5571e4db-d147-4909-a892-24b946e4392b)
 
 # Hi, I'm Pavankumar Mhaske! 👋
 
