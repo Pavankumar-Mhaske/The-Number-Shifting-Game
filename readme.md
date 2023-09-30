@@ -1,9 +1,9 @@
-
 ## Authors
 
 - [@Pavankumar-Mhaske](https://github.com/Pavankumar-Mhaske)
 
 # 🕔 ⚙ Number Shifting Game ✌🏻 ⭐
+
 ### Welcome to the "Number Shifting Game" - Perfect💯 Integration✅ of Entertainmentent 🏏🏸🎯 ➕ Logical thinking ♟♟.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -13,12 +13,6 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Screenshots
-
-<p align="center">
-  <b>WelcomePage</b>
-</p>
-
-
 
 # Hi, I'm Pavankumar Mhaske! 👋
 
