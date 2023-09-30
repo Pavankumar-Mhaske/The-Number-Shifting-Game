@@ -17,3 +17,6 @@
 ## Authors
 
 - [@Pavankumar-Mhaske](https://github.com/Pavankumar-Mhaske)
+
+# 🕔 ⚙ Number Shifting Game ✌🏻 ⭐
+### Welcome to Number Shifting Game - Perfect💯✅ Integration of Entertainment ➕ Logical thinking.
