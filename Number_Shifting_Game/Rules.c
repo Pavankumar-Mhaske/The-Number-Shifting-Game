@@ -7,6 +7,8 @@ void displayRules(void);
 // {
 //     displayRules();
 // }
+
+/** Display Rules */
 void displayRules(void)
 {
     system("cls");
