@@ -1,4 +1,4 @@
-// #include<stdio.h>
+#include<stdio.h>
 // #include<conio.h>
 // #include "Fflush.c"
 // #include "Colors.c"
