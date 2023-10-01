@@ -179,6 +179,10 @@
 
 ![page7](https://github.com/Pavankumar-Mhaske/The-Number-Shifting-Game/assets/104865937/5571e4db-d147-4909-a892-24b946e4392b)
 
+## Feedback
+
+If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
+
 # Hi, I'm Pavankumar Mhaske! 👋
 
 ## 🚀 About Me
