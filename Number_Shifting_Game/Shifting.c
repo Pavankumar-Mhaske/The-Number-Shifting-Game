@@ -1,3 +1,4 @@
+/** Numbers Shifting functions  */
 
 void shiftUp(int **B ,int *row,int *col);
 void shiftDown(int **B,int *row,int *col);
@@ -5,6 +6,7 @@ void shiftRight(int **B,int *row,int *col);
 void shiftLeft(int **B,int *row,int *col);
 
 
+// Shifting Up
 void shiftUp(int **B ,int *row,int *col)
 {
     if(*row==0)
@@ -21,7 +23,7 @@ void shiftUp(int **B ,int *row,int *col)
     }
 }
 
-
+// Shifting Down
 void shiftDown(int **B,int *row,int *col)
 {
     if(*row==3)
@@ -38,6 +40,7 @@ void shiftDown(int **B,int *row,int *col)
     }
 }
 
+// Shifting Left
 void shiftLeft(int **B,int *row,int *col)
 {
     if(*col==0)
@@ -54,7 +57,7 @@ void shiftLeft(int **B,int *row,int *col)
     }
 }
 
-
+// Shifting Right
 void shiftRight(int **B,int *row,int *col)
 {
     if(*col==3)
