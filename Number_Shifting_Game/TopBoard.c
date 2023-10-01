@@ -12,6 +12,7 @@ void displayNameChance(char name[] , int chance);
 //     return 0;
 // }
 
+/** Top Board */
 void displayNameChance(char name[] , int chance)
 {
     system("cls");
