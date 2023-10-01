@@ -7,6 +7,9 @@
 // #include "Matrix.c"
 // #include "Fflush.c"
 
+/* 
+    Function to show winning situation and Lose situation
+*/
 int win(int **A,char* , int );
 void lose(void);
 
