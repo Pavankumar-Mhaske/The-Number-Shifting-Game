@@ -10,7 +10,7 @@ void welcome(void);
 //     welcome();
 //     return 0;
 // }
-
+/** Welcome page */
 void welcome(void)
 {
     system("cls");
