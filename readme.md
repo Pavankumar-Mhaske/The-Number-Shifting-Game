@@ -206,3 +206,7 @@ If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
 ## 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
 
 ### https://github.com/Pavankumar-Mhaske?tab=repositories
+
+## 🛠 Skills
+
+C language, Data structures, Algorithms, Research Work  ...
